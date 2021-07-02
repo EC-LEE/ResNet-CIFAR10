@@ -6,7 +6,7 @@ This implementation is for studying the famous paper, "Deep Residual Learning fo
 
 # Details
 I tried to make it exactly same way described in the paper, but except these things.
-~~1.  Traning/Valiation dataset spiltting(45k/5k) is not used. I used all 50k data for training.~~
+~~1.  Traning/Valiation dataset spiltting(45k/5k) is not used. I used all 50k data for training.
 2.  per-pixcel mean substraction is not used, but instead I nomalized with (0.5,0.5).
 
 
