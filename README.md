@@ -1,8 +1,8 @@
 # ResNet-CIFAR10
 pytorch code for resnet on CIFAR10  
 
-This implementation is for studying the famous paper, "Deep Residual Learning for Image Recognition, Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, 2015" 
-
+This implementation is for studying the famous paper, "Deep Residual Learning for Image Recognition, Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun (2015)" 
+ 
 
 # Details
 I tried to make it exactly same way described in the paper, but except these things.
