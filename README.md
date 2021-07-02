@@ -16,5 +16,5 @@ I tried to make it exactly same way described in the paper, except these things.
 |Test|91.66% (err 8.34%)|92.61% (err 7.39%)|
 |Paper|91.25% (err 8.75%)|92.49% (err 7.51%)|
 
-the additional 5k training data would have caused the better result.
+Additional 5k training data would have caused the better result.
 ![image02](https://user-images.githubusercontent.com/20814465/124218060-6c7f5a80-db34-11eb-9509-545ad54b83a9.png)
