@@ -10,7 +10,7 @@ I tried to make it exactly same way described in the paper, but except these thi
 2.  per-pixcel mean substraction is not used, but instead I nomalized with (0.5,0.5).
 
 
-# Result
+# Results
 ||ResNet-20|ResNet-32|
 |------|---|---|
 |Test|91.66% (err 8.34%)|92.61% (err 7.39%)|
