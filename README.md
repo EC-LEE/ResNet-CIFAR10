@@ -1,7 +1,7 @@
 # ResNet-CIFAR10
 pytorch code for resnet on CIFAR10  
 
-This implementation is for studying the famous paper, "Deep Residual Learning for Image Recognition, Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun" 
+This implementation is for studying the famous paper, "Deep Residual Learning for Image Recognition, Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun".
  
 
 # Details
@@ -10,7 +10,7 @@ I tried to make it exactly same way described in the paper, but except these thi
 2.  per-pixcel mean substraction is not used, but instead I nomalized with (0.5,0.5).
 
 
-# Training Result
+# Result
 ||ResNet-20|ResNet-32|
 |------|---|---|
 |Test|91.66% (err 8.34%)|92.61% (err 7.39%)|
