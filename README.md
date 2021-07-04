@@ -12,7 +12,7 @@ I tried to make it the same as described in the paper, but except for these thin
 # Results
 ||ResNet-20|ResNet-32|
 |------|---|---|
-|Test|91.61% (err 8.39%)|92.54% (err 7.46%)|
+|Test|91.52% (err 8.48%)|92.54% (err 7.46%)|
 |Paper|91.25% (err 8.75%)|92.49% (err 7.51%)|
 
 ![제목 없음](https://user-images.githubusercontent.com/20814465/124390020-b29b1080-dd24-11eb-99a7-d5b3c7d89d7a.png)
